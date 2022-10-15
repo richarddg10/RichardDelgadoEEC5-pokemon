@@ -1,0 +1,54 @@
+.fondo {
+    width: 190px;
+    height: 100px;
+    background-color: rgb(180, 245, 251);
+    position: relative;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+#idPokemones {
+    font-size: 15px;
+    font-family: Arial;
+    color: rgb(0, 3, 88);
+    margin-top: 12px;
+    margin-left: 10px;
+    position: absolute;
+}
+
+#namePokemones {
+    font-size: 20px;
+    font-family: Arial;
+    color: rgb(0, 3, 88);
+    margin-top: 38px;
+    margin-left: 10px;
+    position: absolute;
+}
+
+#weightPokemones {
+    font-size: 8px;
+    font-style: italic;
+    font-family: Arial;
+    color: rgb(0, 3, 88);
+    top: 60px;
+    margin-left: 55px;
+    position: absolute;
+}
+
+#heightPokemones {
+    font-size: 8px;
+    font-style: italic;
+    font-family: Arial;
+    color: rgb(0, 3, 88);;
+    top: 60px;
+    margin-left: 10px;
+    position: absolute;
+}
+
+#imagePokemones {
+    width: 80px;
+    top: 10px;
+    margin-left: 100px;
+    border-radius: 5px;
+    position: absolute;
+}
